@@ -12,6 +12,7 @@ const Cart = () => {
       <h3 className="text-center text-2xl text-green-800 font-medium">
         Total Items: {items.length} (Rs. {total})/-
       </h3>
+      
     </div>
   );
 };
